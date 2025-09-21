@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Projeto"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "challenge-amigo-secreto_pt-main",
+		"liveServer.settings.port": 5501
+	}
+}
